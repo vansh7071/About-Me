@@ -24,7 +24,7 @@
 <a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
 
 <!-- My Site -->
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vansh7071.github.io/Resume-Website/)
 
 <!-- SOCAIL MEDIA HANDLES -->
 [![Linkedin Badge](https://img.shields.io/badge/-VanshMalhotra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vansh7071/)](https://www.linkedin.com/in/vansh7071/)
