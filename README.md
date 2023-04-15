@@ -9,7 +9,7 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Vansh MAlhotra**, currently pursuing my bachelors from Thapar University,Patiala in *Computer and Science Engineering*. <br>
+✔️ I am **Vansh Malhotra**, currently pursuing my bachelors from Thapar University,Patiala in *Computer and Science Engineering*. <br>
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming. <br>
 
