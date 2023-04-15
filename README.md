@@ -15,9 +15,9 @@
 
 ✔️ I have experience in FULL stack web development and some DevOps.<br>
 
+<hr>
 
-<br>
-### Languages and Tools:
+**Languages and Tools:**
 
 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -26,6 +26,7 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 
@@ -38,6 +39,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
+
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -48,14 +50,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-
-
-
-
-
-<br />
-<br />
-
+<hr>
 
 ## 🔗 Links
 
@@ -77,22 +72,10 @@
 
  📶 Stats:<br><br>
  
- 
-<!--  TOP LANGUAGES STATISTICS -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh7071&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
- ---
- 
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/vansh7071/count.svg?align=center)
 
-
-<!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=vansh7071)  
- 
- 
  <hr>
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
@@ -101,6 +84,14 @@
  
 <!-- STATS TRACKER -->
 [![Vansh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vansh7071&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+<hr>
+<!--  TOP LANGUAGES STATISTICS -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh7071&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ---
+<hr>
   <!-- About Me -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vansh7071&repo=Resume-Website)](https://github.com/vansh7071/Resume-Website)
